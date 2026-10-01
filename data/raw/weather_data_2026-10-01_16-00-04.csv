@@ -1,0 +1,11 @@
+city,country,temperature,feels_like,humidity,pressure,weather,wind_speed
+Kathmandu,NP,21.55,22.06,88,1018,broken clouds,0.27
+Pokhara,NP,20.12,20.64,94,1016,light rain,1.13
+Beijing,CN,15.38,13.57,23,1023,clear sky,1.55
+Shanghai,CN,21.52,21.63,73,1020,overcast clouds,2.9
+Seoul,KR,14.12,12.81,47,1020,scattered clouds,3.05
+Busan,KR,16.29,15.28,50,1018,clear sky,3.74
+Tokyo,JP,21.77,22.2,84,1010,few clouds,2.67
+Osaka,JP,22.03,22.25,75,1013,clear sky,2.86
+Kyoto,JP,21.19,21.43,79,1013,scattered clouds,3.83
+Singapore,SG,27.94,32.1,81,1013,light rain,2.7
